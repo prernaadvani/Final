@@ -1,5 +1,5 @@
-NAME	AGE	GENDER	Ketchup	Mayonnaise	Ketchup mixed with mayonnaise 	Mustard	Mustard mixed with mayonnaise	Ranch dressing	Chocolate milkshake	Vanilla milkshake	Hot sauce	Mayonnaise and hot sauce	No sauce
-Lauren Livengood 	21	Female	4	1	1	2	1	1	1	1	1	1	4
+NAME,	AGE,	GENDER,	Ketchup,	Mayonnaise,	Ketchup mixed with mayonnaise, 	Mustard	Mustard mixed with mayonnaise,	Ranch dressing,	Chocolate milkshake,	Vanilla milkshake,	Hot sauce,	Mayonnaise and hot sauce,	No sauce
+Lauren Livengood, 	21,	Female,	4,	1,	1,	2,	1,	1,	1,	1,	1,	1,	4
 Olivia	21	Female	1	1	1	1	1	1	4	4	1	1	5
 Jessica 	19	Female	5	1	1	1	1	5	5	5	1	1	5
 Afif	19	Male	5	2	1	1	1	5	1	1	1	1	3
